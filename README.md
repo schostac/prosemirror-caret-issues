@@ -1,24 +1,17 @@
 # prosemirror-caret-issues
 
-## Project setup
+### Install
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
+### Compile
 ```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Run
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+Open src/index.html in a browser.
+```
